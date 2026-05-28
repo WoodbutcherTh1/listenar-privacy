@@ -42,3 +42,18 @@ Questions or privacy requests:
 ---
 
 © ListenAR Translate — Ameen AB & Hmam K.
+
+
+
+
+
+# ListenAR — Privacy & Support
+
+## Privacy
+ListenAR does not run a central server for your conversations. Translation history stays on your device.
+
+## Support
+Questions or problems? Email us:
+**hmam.kaadna@gmail.com**
+
+We usually reply within a few days.
